@@ -1,6 +1,6 @@
 {
-    "version": "0.1.0",
-    "name": "glpi-project\/php-library-glpi",
+    "version": "1.0.0",
+    "name": "everson-marcos\/php-library-glpi",
     "type": "library",
     "description": "GLPI API Client Library for PHP",
     "keywords": [
@@ -10,8 +10,13 @@
         "client"
     ],
     "homepage": "https:\/\/glpi-project.github.io\/php-library-glpi\/",
-    "license": "GPL-3.0+",
+    "license": "MIT",
     "authors": [
+        {
+            "name": "Everson Marcos de Souza",
+            "email": "e.ever.marcos@gmail.com",
+            "role": "Developer"
+        },
         {
             "name": "Thierry Bugier",
             "email": "tbugier@teclib.com",
@@ -29,7 +34,7 @@
     },
     "require": {
         "php": ">=5.6.0",
-        "guzzlehttp\/guzzle": "^6.3"
+        "guzzlehttp\/guzzle": "^7.8"
     },
     "require-dev": {
         "atoum\/atoum": "^3.1",
