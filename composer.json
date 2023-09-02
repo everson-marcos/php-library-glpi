@@ -1,6 +1,6 @@
 {
     "version": "1.0.0",
-    "name": "everson-marcos\/php-library-glpi",
+    "name": "everson-marcos/php-library-glpi",
     "type": "library",
     "description": "GLPI API Client Library for PHP",
     "keywords": [
@@ -10,7 +10,7 @@
         "client"
     ],
     "homepage": "https:\/\/glpi-project.github.io\/php-library-glpi\/",
-    "license": "MIT",
+    "license": "GLP-3.0-or-later",
     "authors": [
         {
             "name": "Everson Marcos de Souza",
@@ -33,7 +33,7 @@
         "irc": "irc:\/\/irc.freenode.org\/glpi"
     },
     "require": {
-        "php": ">=5.6.0",
+        "php": ">=7.0",
         "guzzlehttp\/guzzle": "^7.8"
     },
     "require-dev": {
