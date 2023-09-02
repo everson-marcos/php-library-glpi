@@ -10,7 +10,7 @@
         "client"
     ],
     "homepage": "https:\/\/glpi-project.github.io\/php-library-glpi\/",
-    "license": "GLP-3.0-or-later",
+    "license": "MIT",
     "authors": [
         {
             "name": "Everson Marcos de Souza",
