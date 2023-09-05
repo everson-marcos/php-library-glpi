@@ -55,7 +55,7 @@ You will be able to call to all the methods that belong to the [GLPI REST API](h
 
 You will need the following minimum dependencies to use the library (composer will automatic check for the first two):
 
-* PHP >= 5.6.0
+* PHP >= 7.4.0
 * Guzzle >= 7.8
 * GLPI >= 9.1.1
 
