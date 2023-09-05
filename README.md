@@ -39,12 +39,6 @@ This library specifically designed for PHP, features several functionalities com
 
 You will be able to call to all the methods that belong to the [GLPI REST API](https://github.com/glpi-project/glpi/blob/master/apirest.md), for more information visit the [project's website](https://glpi-project.github.io/php-library-glpi/).
 
-## Build Status
-
-|**Release channel**|Beta Channel|
-|:---:|:---:|
-|[![Travis build](https://api.travis-ci.org/glpi-project/php-library-glpi.svg?branch=master)](https://travis-ci.org/glpi-project/php-library-glpi)|[![Travis build](https://api.travis-ci.org/glpi-project/php-library-glpi.svg?branch=develop)](https://travis-ci.org/glpi-project/php-library-glpi)|
-
 ## Matrix
 
 |**GLPI Version**|9.1.1|9.1.2|9.1.3|9.1.5|9.1.6|9.2.0|
